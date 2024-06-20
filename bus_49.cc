@@ -143,5 +143,6 @@ Simulator::Run();
 Simulator::Destroy();
 
 return 0;
-
+//./waf          
+// ./waf --run scratch/bus.cc
 }
