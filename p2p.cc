@@ -92,5 +92,6 @@ Simulator::Run();
 Simulator::Destroy();
 
 return 0;
-
+//./waf          
+// ./waf --run scratch/p2p.cc
 }
