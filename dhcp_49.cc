@@ -154,5 +154,6 @@ Simulator::Destroy();
 
 return 0;
 
-
+//./waf          
+// ./waf --run scratch/dcp.cc
 }
