@@ -99,7 +99,8 @@ Simulator::Destroy();
 return 0;
 
 
-
+//./waf          
+// ./waf --run scratch/udpServerClient.cc
 
 
 }
