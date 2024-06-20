@@ -118,6 +118,8 @@ int main(int argc,char *argv[]){
 	NS_LOG_INFO("Done");
 	
 	return 0;
-
+	// export NS_LOG=star=info
+	//./waf          
+	// ./waf --run scratch/star.cc
 	
 }
